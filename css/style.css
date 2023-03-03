@@ -7,11 +7,12 @@ body {
 
 .water {
     color: navy;
-    
+    font-size: 27px;
+    font-family: 'snell roundhand', cursive;
 }
 
 h1 {
-    font-size: 50 px;
+    font-size: 50px;
     text-align: center;
 }
 
