@@ -5,10 +5,9 @@ body {
     text-align: center;
 }
 
-.water {
-    color: navy;
-    font-size: 27px;
-    font-family: 'snell roundhand', cursive;
+img {
+    max-width: 400px;
+    max-height: fit-content;
 }
 
 h1 {
